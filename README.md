@@ -13,3 +13,5 @@ Potential features looking to add:
     Add a shield power-up
     Add a speed power-up
     Add bombs that can be dropped
+
+Created as Boot.dev project
